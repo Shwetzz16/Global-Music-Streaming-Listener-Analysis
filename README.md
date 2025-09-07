@@ -1,6 +1,6 @@
 # Global-Music-Streaming-Listener-Analysis
 Global Music Streaming Listener Preferences – Analysis
-📄 Project Overview
+📄 Project Overview:
 This project analyzes the Global Music Streaming Listener Preferences dataset from Kaggle to uncover patterns in user demographics, platform usage, genre preferences, subscription types, and listening behaviors.
 Through exploratory data analysis (EDA), visualizations, and statistical investigation, the study provides insights that can help music streaming businesses better understand their global audience and optimize engagement strategies.
 
